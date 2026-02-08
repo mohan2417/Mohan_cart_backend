@@ -1,0 +1,83 @@
+[
+  {
+  
+  "name": "Dairy Milk Chocolate",
+  "price": 2.99,
+  "description": "Creamy milk chocolate with a smooth, melt-in-mouth texture.",
+  "ratings": 4.5,
+  "numOfReviews": 22,
+  "images": [
+    {
+      "url": "/images/c1.jpg"
+    }
+  ],
+  "category": "chocolates",
+  "seller": "Cadbury",
+  "stock": 2
+},
+{
+ 
+  "name": "Snickers Chocolate",
+  "price": 3.49,
+  "description": "Milk chocolate bar loaded with peanuts, caramel, and soft nougat.",
+  "ratings": 4.2,
+  "numOfReviews": 15,
+  "images": [
+    {
+      "url": "/images/c2.jpg"
+    }
+  ],
+  "category": "chocolates",
+  "seller": "Nestle",
+  "stock": 9
+},
+{
+ 
+  "name": "Creamy milk Hersheys Chocolate",
+  "price": 3.19,
+  "description": "Classic chocolate bar made with rich cocoa for an intense flavor.",
+  "ratings": 4,
+  "numOfReviews": 18,
+  "images": [
+    {
+      "url": "/images/c3.jpg"
+    }
+  ],
+  "category": "chocolates",
+  "seller": "Hershey's",
+  "stock": 7
+},
+{
+  
+  "name": "Pistachio Kunafa Chocolate",
+  "price": 12.99,
+  "description": "Traditional kunafa made with golden pastry, creamy filling, and roasted pistachios.",
+  "ratings": 4.8,
+  "numOfReviews": 30,
+  "images": [
+    {
+      "url": "/images/c4.jpg"
+    }
+  ],
+  "category": "desserts",
+  "seller": "Middle East Delights",
+  "stock": 4
+},
+{
+  
+  
+  "name": "Premium Galaxy Milk Chocolate",
+  "price": 3.99,
+  "description": "Rich and smooth milk chocolate crafted for a creamy, melt-in-the-mouth experience.",
+  "ratings": 4.4,
+  "numOfReviews": 12,
+  "images": [
+    {
+      "url": "/images/c5.jpg"
+    }
+  ],
+  "category": "chocolates",
+  "seller": "Cadbury",
+  "stock": 10
+}
+]
